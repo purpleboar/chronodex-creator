@@ -23,5 +23,5 @@ Be kind.
 
 ## Acknowledgements
 
- - [Patricl Ng](https://scription.typepad.com)
+ - [Patrick Ng](https://scription.typepad.com)
  
