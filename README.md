@@ -11,13 +11,18 @@ This is a simple script that automates creation of the left and right pages of a
 
 
 1. Gain sum familiarity with git and how to use it.
-2. Give make it accessible if someone in the same situation as I was could benefit it.
+2. Make it accessible so that if someone is in the same situation as I was can benefit from it.
 
+Possible future changes:
 
+1. Add in option to include public holidays, may be as text in center circle or to replicate the manual way I add these as text below chronodex circle.
+2. Add in calendar pages. I currently manually create these for my own printed version in GIMP using the render calendar function.
+3. Have an option to create signatures from the output ready for binding. I currently do this using PDF Split and Merge and then print as booklet in Adobe Acrobat.
 
 Bear in mind, I am not a developer, this is not going to be pretty and there are probably better ways of doing practically everything. 
 
 Be kind.
+
 
 
 
