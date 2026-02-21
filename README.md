@@ -6,7 +6,7 @@ A Python script to automate the creation of diary which uses the Chronodex creat
 
 I have been using a variation on Patrick's Chronodex since 2012, by manaually editing the SVG files in preparation for the next year.
  I had always planned to try to automate it in some way, but with little programming experience I had always put it off. 
-September 2021 roles around and I finally decided to give it a go.
+September 2021 rolls around and I finally decided to give it a go.
 This is a simple script that automates creation of the left and right pages of an A5 diary. It is still in development and not really for ready for general use. I have published on github to:
 
 
