@@ -1,0 +1,27 @@
+File created from old comments in the code to help with understanding when looking back into the code in future.
+    #Variables set up in Chronodex_pl.svg and Chronodex_pr.svg
+    #[FILENAME] = final svg file name
+    #[MONTHCOLOUR] = colour code #000000
+    #[MONTHPOSITION] = X Co-ordinates to centre month text
+    #[MONTH] = 3 character month
+    #[YEAR] = 4 digit week number
+    #[WEEKNUMBER] = 2 digit week number
+    #[DATE1] = 2 digit date first day
+    #[DATE2] = 2 digit date second day
+    #[DATE3] = 2 digit date third day
+    #[DATER1] = 2 digit date first day - right page
+    #[DATER2] = 2 digit date second day - right page
+    #[DATER3] = 2 digit date third day - right page
+    #[DATER4] = 2 digit date fourth day - right page
+    #[CHR1] = CHR rota day 1 in left page
+    #[CHR2] = CHR rota day 2 in left page
+    #[CHR3] = CHR rota day 3 in left page
+    #[CHRR1] = CHR rota day 1 in right page
+    #[CHRR2] = CHR rota day 2 in right page
+    #[CHRR3] = CHR rota day 3 in right page
+    #[CHRR4] = CHR rota day 4 in right page
+    #[CURRENTMONTH] = Current month for calendar on right page
+    #[CM_D#] = Current month day#
+    #[NEXTMONTH] = Next month for calendar on right page
+    #[NM_D#] = Next month day#
+    
